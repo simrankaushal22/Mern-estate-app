@@ -1,1 +1,1 @@
-view project => http://localhost:5173/
+view project => https://mernestateapp.netlify.app/
